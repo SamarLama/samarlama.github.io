@@ -213,7 +213,10 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 260px;
+  width: 240px;
+}
+.user{
+  border-radius: 10%;
 }
 .home__blob {
   fill: var(--first-color);
@@ -376,7 +379,7 @@ img {
     row-gap: 2rem;
   }
   .home__img {
-    width: 200px;
+    width: 180px;
   }
 }
 @media screen and (min-width: 576px) {
@@ -394,7 +397,7 @@ img {
     margin-right: var(--mb-4);
   }
   .home__img {
-    width: 300px;
+    width: 280px;
     bottom: 25%;
   }
   .about__container {
@@ -457,7 +460,7 @@ img {
     padding: 8rem 0 2rem;
   }
   .home__img {
-    width: 400px;
+    width: 380px;
     bottom: 10%;
   }
   .about__container {
@@ -486,6 +489,6 @@ img {
     padding: 10rem 0 2rem;
   }
   .home__img {
-    width: 450px;
+    width: 430px;
   }
 }

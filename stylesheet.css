@@ -213,7 +213,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 240px;
+  width: 230px;
 }
 .user{
   border-radius: 10%;
@@ -379,7 +379,7 @@ img {
     row-gap: 2rem;
   }
   .home__img {
-    width: 180px;
+    width: 160px;
   }
 }
 @media screen and (min-width: 576px) {
@@ -397,7 +397,7 @@ img {
     margin-right: var(--mb-4);
   }
   .home__img {
-    width: 280px;
+    width: 270px;
     bottom: 25%;
   }
   .about__container {
@@ -460,7 +460,7 @@ img {
     padding: 8rem 0 2rem;
   }
   .home__img {
-    width: 380px;
+    width: 370px;
     bottom: 10%;
   }
   .about__container {
@@ -489,6 +489,6 @@ img {
     padding: 10rem 0 2rem;
   }
   .home__img {
-    width: 430px;
+    width: 420px;
   }
 }
